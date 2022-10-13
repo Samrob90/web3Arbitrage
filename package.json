@@ -1,0 +1,23 @@
+{
+  "name": "web3Arbitrage",
+  "version": "1.0.0",
+  "description": "web3 arbitrage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samrob90/web3Arbitrage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samrob90/web3Arbitrage/issues"
+  },
+  "homepage": "https://github.com/Samrob90/web3Arbitrage#readme",
+  "dependencies": {
+    "ethers": "^5.7.1"
+  }
+}
